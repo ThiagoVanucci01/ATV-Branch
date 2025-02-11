@@ -6,5 +6,7 @@
         public string Clan { get; set; }
         public string Village { get; set; }
 
+        public int Age { get; set; }
+
     }
 }
