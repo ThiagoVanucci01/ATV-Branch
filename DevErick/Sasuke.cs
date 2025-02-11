@@ -5,5 +5,7 @@
         public string Name { get; set; }
         public string Clan { get; set; }
 
+        public int Age { get; set; }
+
     }
 }
