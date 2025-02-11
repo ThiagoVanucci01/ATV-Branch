@@ -4,6 +4,7 @@
     {
         public string Name { get; set; }
         public string Clan { get; set; }
+        public string Village { get; set; }
 
     }
 }
