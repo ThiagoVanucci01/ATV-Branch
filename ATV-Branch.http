@@ -1,0 +1,6 @@
+@ATV_Branch_HostAddress = http://localhost:5044
+
+GET {{ATV_Branch_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
